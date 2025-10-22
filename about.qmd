@@ -1,14 +1,13 @@
 ---
 title: "About / Про блог"
+author: "Кирило Ясуда"
 about:
   template: jolla
   links:
     - icon: github
       text: Github
       href: https://github.com/kiriushaMegabaitusha
-    - icon: envelope-open-heart
-      text: Email
-      href: kiriloasuda@gmail.com
+  
       
 
 ---
@@ -17,9 +16,9 @@ about:
 
 ```
 Document No.: DO0-000
-Filed: [Insert date]
+Filed: 2025-10-22
 Classification: Introductory Memorandum
-Author: Kyrylo
+Author: Kyrylo Yasuda
 Subject: Purpose and Scope of Appendix 0 (Додаток 0)
 ```
 
