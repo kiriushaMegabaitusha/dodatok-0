@@ -4,4 +4,54 @@ author: Кирило Ясуда
 date: 2025-10-22
 ---
 
-# Preamble
+```
+Filed Entry No. 0: On the Existence of Appendix Zero
+
+Document No.: DO0-000
+Filed: [Insert date]
+Classification: Introductory Memorandum
+Author: Kyrylo
+Subject: Purpose and Scope of Додаток 0
+```
+
+## Preamble
+
+Pursuant to the unwritten regulations of intellectual curiosity, this document establishes Додаток 0 — an appendix to no known report, a repository for theories, experiments, and bureaucratic daydreams. The numbering begins at zero because every system deserves a prologue: the space before the first entry, where intentions are still fluid and typos are not yet crimes.
+
+## The Rationale
+
+Bureaucracies adore appendices. They’re the afterthought that sustains the whole architecture: where the real detail hides once the executive summary has declared victory. I’ve often felt that my own research life exists in a similar zone — between the neat declarations of academic papers and the messy reasoning that produced them.
+
+Додаток 0 is where that middle ground becomes public. I’ll record my learning curve here — mistakes included, revisions celebrated. Each post will be a dated fragment of a longer investigation into how institutions think, speak, and store meaning.
+
+## The Territory
+
+Expect essays that meander across formal bureaucracy theory, public policy, and computational linguistics, with detours through document theory and information science.
+
+What unites these domains is a single obsession: the grammar of order. How do rules write themselves? How does language become procedure? Why does a form feel safer than a sentence?
+
+If you’ve ever admired a clean metadata schema or argued about the superiority of one ISO standard over another, welcome home. This is a space for the affectionately pedantic — those who find beauty in controlled vocabularies and despair in unnumbered sections.
+
+## The Method
+
+I intend this not as a publication but as a laboratory. Posts will range from short notes to more formal essays, each tagged with its level of maturity — Draft, Revised, Deprecated. Earlier versions will remain accessible; bureaucracy loves a paper trail, and so do I.
+
+You’ll also see the interplay between the analogue and the algorithmic: scanned marginalia beside code snippets, PDF fragments beside Markdown text. It’s the aesthetic of version control — not to erase the past, but to understand how thinking evolves through its own paperwork.
+
+## The Invitation
+
+Like any appendix, this one anticipates future amendments. If something resonates or provokes disagreement, you’re invited to annotate. Send a memo, file a note, argue in good faith. Ideas, like forms, improve with revision stamps.
+
+## Closing Statement
+
+Додаток 0 begins as an experiment in documenting thought before it hardens into policy, code, or doctrine. It’s a reminder that every system starts as a draft — even the self.
+
+End of record. Version 1.0 — Subject to revision.
+
+----------
+
+*Made in Ukraine with Love / Зроблено в Україні з любов’ю*
+
+This appendix is rooted in Kyiv, Ukraine, in a country that knows bureaucracy, resilience, and creativity in equal measure. Every line, every footnote, and every draft is a small act of curiosity sent out into the world from here.
+
+Цей додаток народився у Києві, в Україні ---  країні, яка знає бюрократію, стійкість і креативність у рівній мірі. Кожен рядок, кожна примітка та кожна чернетка --- це маленький акт допитливості, який відправляється у світ звідси.

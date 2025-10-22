@@ -1,5 +1,9 @@
 project:
-  title: "docs"
+  title: "Appendix 0 / Додаток 0"
+  type: website
 
-
-
+website: 
+  navbar: 
+    right: 
+      - text: kiriloasuda@gmail.com
+  page-footer: kiriloasuda@gmail.com
