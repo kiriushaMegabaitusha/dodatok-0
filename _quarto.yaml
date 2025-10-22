@@ -1,13 +1,13 @@
 project: 
   output-dir: docs
   type: website
+  title: Appendix 0
 
 website: 
   back-to-top-navigation: true
   navbar: 
     left: 
-      - text: Archive / Архів
-        href: archive.qmd
+      - archive.qmd
     right: 
       - icon: github
         href: https://github.com/kiriushaMegabaitusha
