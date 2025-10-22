@@ -1,0 +1,36 @@
+---
+title: Starting out / Розпочинаю
+subtitle: No. 2025/1-1
+date: 2025-10-22
+author: Kyrylo Yasuda
+---
+
+I’ve decided to start this blog to think out loud — to share ideas before they’re fully formed, questions before I have answers, and experiments before I know whether they’ll work. You’ll probably notice that I fumble sometimes, that my logic jumps around, or that I chase tangents that lead nowhere. That’s fine — this blog isn’t about being polished. It’s about being curious and a little bit lost in the best way possible.
+
+Right now, I’m writing my master’s thesis on bureaucracy. My hypothesis is that all institutions, given enough time, evolve into bureaucracies. It sounds simple, maybe even cynical, but I find beauty in systems that try to bring order to chaos. Especially in Ukraine, where we’ve spent years reforming and “modernizing” public institutions — sometimes with brilliant results, sometimes with pure confusion. I think Weberian bureaucracy, for all its paperwork and slowness, still carries a quiet kind of dignity.
+
+Language fascinates me too. I’m into computational linguistics and complex systems — studying how structure and meaning emerge on their own. Together with my friend (a brilliant linguist in her own right), I’m writing a review paper on what we call fractal language geometry. It’s ambitious, possibly absurd, and deeply fun. We’ll see where it leads.
+
+Maybe my curiosity about rules and systems comes from being neurodivergent — or maybe from my upbringing, or both. Communication used to be hard for me, but structured texts and pragmatic forms made sense. There was comfort in their precision, in knowing that meaning wouldn’t shift depending on tone or context. That’s probably why I fell in love with bureaucracy before I even realized it.
+
+Of course, none of this came in a straight line. During my bachelor’s, I learned Python, R, SQL — you name it — but somehow never managed to train a proper language model. Then, while working at a government institution, I turned down a well-paying job offer from a private firm because, as I said, “private firms can afford to find someone better.” I still stand by that, though I admit it was a bit dramatic. And when I decided to switch fields, I read an entire public administration textbook in a month just to pass the entrance exam for a policy program. No social sciences background, just caffeine and stubbornness.
+
+So, yes — I’m not the most experienced researcher. But I care deeply. I want to understand how systems, languages, and people organize themselves — and where they fall apart. This blog is my record of that journey, full of unfinished thoughts and occasional revelations.
+
+Welcome to my small corner of the web. Made in Ukraine, with love.
+
+----------
+
+Я вирішив почати цей блог, щоб думати вголос — ділитися ідеями, які ще не до кінця сформовані, питаннями, на які я поки не маю відповіді, і експериментами, про які ще не знаю, чи спрацюють. Ви, мабуть, помітите, що я іноді плутаюсь, стрибаю з теми на тему або заходжу у глухий кут. І це нормально — цей блог не про ідеальність, а про цікавість і трохи розгубленість у найкращому сенсі.
+
+Зараз я пишу магістерську роботу про бюрократію. Моя гіпотеза полягає в тому, що всі інституції з часом еволюціонують у бюрократії. Це звучить просто, можливо навіть цинічно, але я бачу певну красу в системах, які намагаються приборкати хаос. Особливо в Україні, де ми роками реформуємо й «модернізуємо» державні інституції — часом геніально, часом хаотично. Мені здається, що веберівська бюрократія, зі всіма своїми папірцями та повільністю, все ж має тиху гідність.
+
+Мова теж мене зачаровує. Я займаюся комп’ютерною лінгвістикою і складними системами — вивчаю, як структура й значення виникають самі собою. Разом із подругою (вона чудова лінгвістка) ми пишемо оглядову статтю про те, що називаємо фрактальною геометрією мови. Це амбітно, можливо навіть трохи абсурдно, але страшенно цікаво.
+
+Можливо, моя зацікавленість у правилах і системах походить із того, що я нейровідмінний — або з виховання, або з усього потроху. Колись спілкування давалося мені важко, але структуровані тексти та прагматичні форми були зрозумілі. У їхній точності була втіха — коли сенс не змінювався залежно від тону чи контексту. Мабуть, саме тому я полюбив бюрократію ще до того, як усвідомив це.
+
+І, звісно, шлях до цього був зовсім не прямий. Під час бакалаврату я вивчив Python, R, SQL — усе, що можна, — але так і не навчився нормально тренувати мовні моделі. Потім, уже працюючи в держустанові, відмовився від високооплачуваної пропозиції з приватної компанії, бо сказав: «приватні можуть знайти когось кращого». І досі не шкодую, хоч визнаю, що це було трохи театрально. А коли вирішив змінити сферу, визубрив увесь підручник з державного управління за місяць, щоб скласти вступний іспит до магістратури з публічної політики. Без досвіду соціальних наук за плечима — лише кава і впертість.
+
+Тож так, я ще не найдосвідченіший дослідник. Але мені справді не все одно. Мені цікаво розуміти, як системи, мови й люди організовують себе — і де саме вони дають збій. Цей блог — мій спосіб фіксувати цю подорож, повну незавершених думок і випадкових осяянь.
+
+Ласкаво прошу в мій маленький куточок інтернету. Зроблено в Україні, з любов’ю.
