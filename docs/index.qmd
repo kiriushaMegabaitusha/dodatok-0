@@ -1,5 +1,5 @@
 ---
-title: "Appendix 0 / Додаток 0"
+title: "Appendix 0 / Appendix 0"
 author: Кирило Ясуда
 date: 2025-10-22
 ---
@@ -8,7 +8,7 @@ date: 2025-10-22
 Filed Entry No. 0: On the Existence of Appendix Zero
 
 Document No.: DO0-000
-Filed: [Insert date]
+Filed: 2025-10-22
 Classification: Introductory Memorandum
 Author: Kyrylo
 Subject: Purpose and Scope of Додаток 0
@@ -16,13 +16,13 @@ Subject: Purpose and Scope of Додаток 0
 
 ## Preamble
 
-Pursuant to the unwritten regulations of intellectual curiosity, this document establishes Додаток 0 — an appendix to no known report, a repository for theories, experiments, and bureaucratic daydreams. The numbering begins at zero because every system deserves a prologue: the space before the first entry, where intentions are still fluid and typos are not yet crimes.
+Pursuant to the unwritten regulations of intellectual curiosity, this document establishes Appendix 0 (Додаток 0) — an appendix to no known report, a repository for theories, experiments, and bureaucratic daydreams. The numbering begins at zero because every system deserves a prologue: the space before the first entry, where intentions are still fluid and typos are not yet crimes.
 
 ## The Rationale
 
 Bureaucracies adore appendices. They’re the afterthought that sustains the whole architecture: where the real detail hides once the executive summary has declared victory. I’ve often felt that my own research life exists in a similar zone — between the neat declarations of academic papers and the messy reasoning that produced them.
 
-Додаток 0 is where that middle ground becomes public. I’ll record my learning curve here — mistakes included, revisions celebrated. Each post will be a dated fragment of a longer investigation into how institutions think, speak, and store meaning.
+Appendix 0 (Додаток 0) is where that middle ground becomes public. I’ll record my learning curve here — mistakes included, revisions celebrated. Each post will be a dated fragment of a longer investigation into how institutions think, speak, and store meaning.
 
 ## The Territory
 
@@ -44,7 +44,7 @@ Like any appendix, this one anticipates future amendments. If something resonate
 
 ## Closing Statement
 
-Додаток 0 begins as an experiment in documenting thought before it hardens into policy, code, or doctrine. It’s a reminder that every system starts as a draft — even the self.
+Appendix 0 (Додаток 0) begins as an experiment in documenting thought before it hardens into policy, code, or doctrine. It’s a reminder that every system starts as a draft — even the self.
 
 End of record. Version 1.0 — Subject to revision.
 
@@ -52,6 +52,6 @@ End of record. Version 1.0 — Subject to revision.
 
 *Made in Ukraine with Love / Зроблено в Україні з любов’ю*
 
-This appendix is rooted in Kyiv, Ukraine, in a country that knows bureaucracy, resilience, and creativity in equal measure. Every line, every footnote, and every draft is a small act of curiosity sent out into the world from here.
+This blog of mine is rooted in Kyiv, Ukraine, in a country that knows bureaucracy, resilience, and creativity in equal measure. Every line, every footnote, and every draft is a small act of curiosity sent out into the world from here.
 
-Цей додаток народився у Києві, в Україні ---  країні, яка знає бюрократію, стійкість і креативність у рівній мірі. Кожен рядок, кожна примітка та кожна чернетка --- це маленький акт допитливості, який відправляється у світ звідси.
+Цей мій блог народився у Києві, в Україні ---  країні, яка знає бюрократію, стійкість і креативність у рівній мірі. Кожен рядок, кожна примітка та кожна чернетка --- це маленький акт допитливості, який відправляється у світ звідси.
