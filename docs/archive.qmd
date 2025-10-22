@@ -6,8 +6,8 @@ toc: true
 
 # In English
 
-[records/2025-1-1.qmd](No. 2025/1-1)
+[No. 2025/1-1](records/2025-1-1.qmd)
 
 # In Ukrainian
 
-[records/2025-1-1.qmd](№ 2025/1-1)
+[№ 2025/1-1](records/2025-1-1.qmd)

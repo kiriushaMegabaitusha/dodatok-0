@@ -7,10 +7,10 @@ date: 2025-10-22
 ```
 Filed Entry No. 0: On the Existence of Appendix Zero
 
-Document No.: DO0-000
+Document No.: 2025/0-0
 Filed: 2025-10-22
 Classification: Introductory Memorandum
-Author: Kyrylo
+Author: Kyrylo Yasuda
 Subject: Purpose and Scope of Додаток 0
 ```
 
