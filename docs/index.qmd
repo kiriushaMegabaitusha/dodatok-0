@@ -1,0 +1,7 @@
+---
+title: "Appendix 0 / Додаток 0"
+author: Кирило Ясуда
+date: 2025-10-22
+---
+
+# Preamble
