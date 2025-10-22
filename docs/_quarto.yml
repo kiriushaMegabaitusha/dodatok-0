@@ -4,7 +4,10 @@ project:
   output-dir: docs
 
 website: 
-  navbar: 
+  navbar:
+    left: 
+      - text: Archive of Records / Архів записів
+        href: archive.qmd
     right: 
       - text: kiriloasuda@gmail.com
       - icon: github
