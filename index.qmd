@@ -1,5 +1,6 @@
 ---
-title: "dodatok-0"
+title: "Додаток 0 / Appendix 0"
+subtitle: "A little niche academic blog of mine."
 listing:
   contents: posts
   feed: true
