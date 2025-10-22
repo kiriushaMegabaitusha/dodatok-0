@@ -2,16 +2,17 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
+  description: "a little blog from the neurodivergent lover of computational linguistics and bureaucracy"
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "dodatok-0"
+  title: "Appendix 0"
   navbar:
+    left: 
+      - text: Home
+        href: index.qmd
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/kiriushaMegabaitusha
 format:
   html:
     theme:
