@@ -1,9 +1,13 @@
 project:
   title: "Appendix 0 / Додаток 0"
   type: website
+  output-dir: docs
 
 website: 
   navbar: 
     right: 
       - text: kiriloasuda@gmail.com
+      - icon: github
+        text: GitHub
+        href: https://github.com/kiriushaMegabaitusha
   page-footer: kiriloasuda@gmail.com
